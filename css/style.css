@@ -1,0 +1,20 @@
+/*!
+ * Start Bootstrap - Creative v5.0.2 (https://startbootstrap.com/template-overviews/creative)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-creative/blob/master/LICENSE)
+ */
+
+.test {
+  color: red;
+}
+
+ul {
+  -webkit-padding-start: 0px;
+  padding-inline-start: 0px;
+}
+
+.dropdown-item.active, .dropdown-item:active {
+  color: #fff;
+  text-decoration: none;
+  background-color: primary;
+}
