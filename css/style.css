@@ -4,17 +4,12 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-creative/blob/master/LICENSE)
  */
 
-.test {
-  color: red;
-}
-
-ul {
-  -webkit-padding-start: 0px;
-  padding-inline-start: 0px;
-}
-
-.dropdown-item.active, .dropdown-item:active {
+.dropdown-item.active, .dropdown-item:hover {
   color: #fff;
   text-decoration: none;
-  background-color: primary;
+  background-color: #F05F40;
+}
+
+b {
+  color: #fff;
 }
