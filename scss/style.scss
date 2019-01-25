@@ -1,14 +1,9 @@
-ul{
-    list-style-type: none;
-    padding-inline-start: 0px;
-}
-
 .dropdown-item.active, .dropdown-item:hover {
-    color: #fff;
+    color: $white;
     text-decoration: none;
     background-color: $primary;
 }
 
 b{
-    color: white;
+    color: $white;
 }

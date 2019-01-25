@@ -318,12 +318,6 @@ header.masthead p {
   box-shadow: 0 0 0 0.2rem rgba(240, 95, 64, 0.5) !important;
 }
 
-ul {
-  list-style-type: none;
-  -webkit-padding-start: 0px;
-  padding-inline-start: 0px;
-}
-
 .dropdown-item.active, .dropdown-item:hover {
   color: #fff;
   text-decoration: none;
@@ -331,5 +325,5 @@ ul {
 }
 
 b {
-  color: white;
+  color: #fff;
 }
