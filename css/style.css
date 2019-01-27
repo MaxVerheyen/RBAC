@@ -5,7 +5,7 @@
  */
 
 .dropdown-item.active, .dropdown-item:hover {
-  color: #fff;
+  color: #fff !important;
   text-decoration: none;
   background-color: #F05F40;
 }

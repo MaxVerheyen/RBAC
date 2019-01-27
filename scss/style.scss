@@ -1,7 +1,7 @@
 @import 'variables';
 
 .dropdown-item.active, .dropdown-item:hover {
-    color: $white;
+    color: $white !important;
     text-decoration: none;
     background-color: $primary;
 }
